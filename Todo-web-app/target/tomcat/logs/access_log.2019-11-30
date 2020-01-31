@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:48:34 -0500] "GET / HTTP/1.1" 200 1216 http-bio-8080-exec-2 109
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:48:34 -0500] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-1 5
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:48:34 -0500] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:49:36 -0500] "POST /login.do HTTP/1.1" 200 1236 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:49:45 -0500] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:49:45 -0500] "GET /todo.do HTTP/1.1" 200 2193 http-bio-8080-exec-9 53
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:33 -0500] "POST /add-todo.do HTTP/1.1" 302 - http-bio-8080-exec-1 3
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:33 -0500] "GET /todo.do HTTP/1.1" 200 2414 http-bio-8080-exec-1 5
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:39 -0500] "GET /logout.do HTTP/1.1" 200 1216 http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:41 -0500] "GET /todo.do HTTP/1.1" 200 1216 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:43 -0500] "GET /todo.do HTTP/1.1" 200 1216 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:45 -0500] "GET /todo.do HTTP/1.1" 200 1216 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [30/Nov/2019:10:50:47 -0500] "GET /todo.do HTTP/1.1" 200 1216 http-bio-8080-exec-5 1
