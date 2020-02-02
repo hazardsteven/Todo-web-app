@@ -2,14 +2,15 @@
 <%@include file="../common/navigation.jspf" %>
 
 	<div class="container">
+	
 		<form action="/login.do" method="post">
 
-			Name: <input type="text" name="name" /> Password: <input
-				type="password" name="password" /><input type="submit"
-				value="Submit" />
+			Name: <input type="text" name="name"/>
+			Password: <input type="password" name="password"/>
+			<input type="submit" value="Submit"/>
 
 		</form>
-
+		<p>(use Name: Name and Password: Password to login)</p>
 		<p style="font: red">${errorMessage}</p>
 
 	</div>
